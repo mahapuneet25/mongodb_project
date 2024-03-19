@@ -1,4 +1,4 @@
-# Quality Control in Manufacturing
+# MongoDB - Quality Control in Manufacturing
 
 Quality control in manufacturing is a critical process that ensures products meet predefined standards and specifications. It involves the inspection and testing of materials and products at various stages of production to identify and correct defects. Effective QC helps in managing costs, reducing waste, and maintaining brand reputation by preventing the distribution of defective products.
 
