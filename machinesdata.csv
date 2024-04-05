@@ -1,0 +1,25 @@
+name,type,manufacturer,spindle_speed_rpm,axis_count
+AlphaMach Machining Center,Machining,Haas,8000,3
+BetaCNC Turning Lathe,Turning,Fanuc,7500,4
+GammaCraft CNC Router,Woodworking,DMG Mori,6000,2
+DeltaMach CNC Lathe,Turning,Okuma,5000,2
+EpsilonCNC Wood Router,Woodworking,ShopBot,10000,3
+ZetaCNC Precision Cutter,Metal Cutting,AXYZ,9000,3
+EtaCNC Plasma Cutter,Metal Cutting,Hypertherm,2000,2
+ThetaMach Laser Cutter,Laser Cutting,ESAB,2500,2
+IotaCNC Waterjet Cutter,Waterjet Cutting,Trumpf,3000,3
+KappaCraft Waterjet Machine,Waterjet Cutting,Omax,4500,3
+LambdaMach EDM Machine,Electrical Discharge Machining,Makino,6000,4
+MuCNC Surface Grinder,Grinding,Sodick,6500,4
+NuCNC Swiss Lathe,Swiss Machining,Okamoto,7500,3
+XiCNC Wire EDM,Wire Electrical Discharge Machining,AgieCharmilles,9000,4
+OmicronMach Mill-Turn Center,Multi-Tasking,Doosan,10000,5
+PiCNC Tube Bender,Tube Bending,Mazak,10500,5
+RhoCraft CNC Punch Press,Punching,Addison,11000,4
+SigmaMach CNC Drilling Machine,Drilling,Unison,11500,4
+TauCNC Turret Punch Press,Punching,Amada,12000,3
+UpsilonMach CNC Engraving Machine,Engraving,Trumpf,12500,3
+PhiCNC Milling Machine,Machining,Haas,8000,3
+ChiCNC Lathe,Turning,Fanuc,7500,4
+PsiCNC Router,Woodworking,DMG Mori,6000,2
+OmegaCNC Lathe,Turning,Okuma,5000,2
